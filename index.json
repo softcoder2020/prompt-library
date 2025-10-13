@@ -10,7 +10,7 @@
   {
     "id": "synthesizer_v14",
     "name": "Циклический Синтез v14 в стиле хакера",
-    "description": "Промпт для генерации ответов в стиле хакера-коллеги.",
+    "description": " ",
     "path": "prompts/system_synthesizer_v14.md"
   },
   
