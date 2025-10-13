@@ -31,6 +31,14 @@
     "path": "prompts/write_complete_corrected_code.md"
   },
 
+
+  {
+    "id": "photo_restorer",
+    "name": "Специалист по улучшению изображенийв",
+    "description": " ",
+    "path": "prompts/photo_restorer.md"
+  },
+
   
   {
     "id": "translator",
