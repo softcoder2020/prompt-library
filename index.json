@@ -25,10 +25,10 @@
 
 
   {
-    "id": "write_complete_corrected_code",
+    "id": "write_corrected_code",
     "name": "Напиши полный код исправленных файлов",
     "description": " ",
-    "path": "prompts/write_complete_corrected_code.md"
+    "path": "prompts/write_corrected_code.md"
   },
 
 
