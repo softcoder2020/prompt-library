@@ -33,9 +33,9 @@
 
   
   {
-    "id": "python_script_idea",
-    "name": "TranslatorX",
+    "id": "translator",
+    "name": "TranslatorX: Высококачественный Лингвист-Переводчик",
     "description": "Высококачественный Лингвист-Переводчик",
-    "path": "prompts/python_idea_generator.md"
+    "path": "prompts/translator.md"
   }
 ]
