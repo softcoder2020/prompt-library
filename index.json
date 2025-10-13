@@ -43,7 +43,7 @@
   {
     "id": "translator",
     "name": "Лингвист-Переводчик",
-    "description": "Высококачественный Лингвист-Переводчик",
+    "description": " ",
     "path": "prompts/translator.md"
   }
 ]
