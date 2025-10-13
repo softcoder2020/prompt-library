@@ -34,7 +34,7 @@
 
   {
     "id": "photo_restorer",
-    "name": "Специалист по улучшению изображенийв",
+    "name": "Специалист по улучшению изображений",
     "description": " ",
     "path": "prompts/photo_restorer.md"
   },
@@ -42,7 +42,7 @@
   
   {
     "id": "translator",
-    "name": "TranslatorX: Высококачественный Лингвист-Переводчик",
+    "name": "Лингвист-Переводчик",
     "description": "Высококачественный Лингвист-Переводчик",
     "path": "prompts/translator.md"
   }
