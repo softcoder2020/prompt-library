@@ -7,8 +7,8 @@
   },
   {
     "id": "python_script_idea",
-    "name": "Идея для Python-скрипта",
-    "description": "Запрос на генерацию идеи для небольшого автоматизирующего скрипта.",
+    "name": "TranslatorX",
+    "description": "Высококачественный Лингвист-Переводчик",
     "path": "prompts/python_idea_generator.md"
   }
 ]
