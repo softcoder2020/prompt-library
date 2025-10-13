@@ -1,10 +1,20 @@
 [
   {
+    "id": "synthesizer_v5",
+    "name": "Системная Инструкция: Циклический Синтез v5",
+    "description": "Промпт для генерации ответов по методу Циклический Синтез",
+    "path": "prompts/system_synthesizer_v5.md"
+  },
+
+
+  {
     "id": "synthesizer_v14",
     "name": "Системная Инструкция: Циклический Синтез v14",
     "description": "Промпт для генерации ответов в стиле хакера-коллеги.",
     "path": "prompts/system_synthesizer_v14.md"
   },
+  
+  
   {
     "id": "python_script_idea",
     "name": "TranslatorX",
