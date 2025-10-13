@@ -1,0 +1,14 @@
+[
+  {
+    "id": "synthesizer_v14",
+    "name": "Системная Инструкция: Циклический Синтез v14",
+    "description": "Промпт для генерации ответов в стиле хакера-коллеги.",
+    "path": "prompts/system_synthesizer_v14.md"
+  },
+  {
+    "id": "python_script_idea",
+    "name": "Идея для Python-скрипта",
+    "description": "Запрос на генерацию идеи для небольшого автоматизирующего скрипта.",
+    "path": "prompts/python_idea_generator.md"
+  }
+]
