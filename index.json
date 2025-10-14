@@ -1,11 +1,20 @@
 [
   {
+    "id": "default",
+    "name": "default: Системная инструкция по-умолчанию",
+    "description": " ",
+    "path": "prompts/default.md"
+  },
+
+
+{
     "id": "synthesizer_v5",
     "name": "Циклический Синтез v5",
     "description": " ",
     "path": "prompts/system_synthesizer_v5.md"
   },
 
+  
 
   {
     "id": "synthesizer_v14",
