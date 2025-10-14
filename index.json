@@ -1,7 +1,7 @@
 [
   {
     "id": "default",
-    "name": "Системная инструкция по-умолчанию",
+    "name": "default",
     "description": " ",
     "path": "prompts/default.md"
   },
