@@ -48,6 +48,14 @@
     "path": "prompts/photo_restorer.md"
   },
 
+
+  {
+    "id": "architect_characters",
+    "name": "Архитектор ИИ-персонажей",
+    "description": " ",
+    "path": "prompts/architect_characters.md"
+  },
+
   
   {
     "id": "translator",
