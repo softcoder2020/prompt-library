@@ -9,7 +9,7 @@
 
 {
     "id": "synthesizer_v5",
-    "name": "Циклический Синтез v5",
+    "name": "Циклический Синтез",
     "description": " ",
     "path": "prompts/system_synthesizer_v5.md"
   },
