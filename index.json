@@ -17,10 +17,10 @@
   
 
   {
-    "id": "synthesizer_v14",
+    "id": "system_synthesizer_hacker",
     "name": "Циклический Синтез в стиле хакера",
     "description": " ",
-    "path": "prompts/system_synthesizer_v14.md"
+    "path": "prompts/system_synthesizer_hacker.md"
   },
   
 
